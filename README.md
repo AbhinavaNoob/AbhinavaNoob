@@ -11,9 +11,9 @@ Pro in gaming
 
 Pro in scratch programming
 
-Learning in C
+Learning C
 
-I know german little, ich bin aus Indien!
+I know german little because I am learning, ich bin aus Indien!
 
 
 <!---
